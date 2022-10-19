@@ -65,7 +65,7 @@
            { title: 'About Vuetify', icon: 'mdi-school', path: '/About'},
            { title: 'About Composition API', icon: 'mdi-school', path: '/Aboutt'},
            { title: 'Compute Area', icon: 'mdi-calculator-variant', path: '/Area'},
-           { title: 'Quiz', icon: 'mdi-calculator-variant', path: '/Quiz.vue'},
+           { title: 'Quiz', icon: 'mdi-calculator-variant', path: '/Quiz'},
         ])
 
  function toggleDrawer(){
